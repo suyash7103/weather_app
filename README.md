@@ -1,16 +1,10 @@
 # Weather App
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Platform & Language**: Developed using Flutter framework and Dart programming language.
+- **Weather Data Source**: Utilizes a weather API with an API key to fetch real-time weather data.
+- **Animations**: Integrates Lottie animations to visually represent different weather conditions like sunny, rainy, snowy, and cloudy.
+- **UI Design**:
+  - **Weather Details**: Displays real-time weather information including temperature, humidity, wind speed, etc.
+  - **City Names**: Shows the name of the city for which the weather is being displayed, though currently, the city names are appearing too high in the layout, which is
+- **User Experience**:
+  - **Interactive Elements**: The UI is interactive, providing a seamless user experience.
